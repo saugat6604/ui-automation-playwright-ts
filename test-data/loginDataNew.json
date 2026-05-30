@@ -12,7 +12,7 @@
     },
     {
         "username": "maima.mhz@gmail.com",
-        "password": "Artist@1234",
+        "password": "Artist@12345",
         "expected": "error",
         "run": "no"
     }
