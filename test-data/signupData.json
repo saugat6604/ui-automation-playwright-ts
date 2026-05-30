@@ -1,0 +1,19 @@
+[ {
+    "username": "",
+    "password": "",
+    "expected": "empty_fields",
+    "run": "yes"
+  },
+    {
+        "username": "artist1@terma.com",
+        "password": "Artist@123",
+        "expected": "success",
+        "run": "no"
+    },
+    {
+        "username": "hold@gv",
+        "password": "Artist@1234",
+        "expected": "error",
+        "run": "no"
+    }
+]
